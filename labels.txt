@@ -1,0 +1,4 @@
+0 Paper
+1 Rock
+2 Scissors
+3 Nothing
